@@ -15,6 +15,23 @@ DOMAINS=(
   "api.speedtest.net"
   "c.speedtest.net"
   # در صورت نیاز دامنه‌های دیگر Speedtest یا سایت‌های موردنظر را اضافه کنید
+    "instagram.com"
+  "www.instagram.com"
+
+  # یوتیوب
+  "youtube.com"
+  "www.youtube.com"
+  "m.youtube.com"        # یوتیوب موبایل
+  "youtube-nocookie.com" # برای ویدیوهای جاسازی‌شده (embedded)
+  "googlevideo.com"      # بسیاری از استریم‌های یوتیوب از این دامنه استفاده می‌کنند
+
+  # سایت‌های پورنوگرافی (صرفاً مثال)
+  "pornhub.com"
+  "www.pornhub.com"
+  "xvideos.com"
+  "www.xvideos.com"
+  "www.Xnxx.com"
+  "Xnxx.com"
 )
 
 # یک مجموعه ipset به نام speedtest_block می‌سازیم (اگر موجود نباشد)
