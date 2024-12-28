@@ -21,5 +21,7 @@ sudo ./block_speedtest.sh
 5. (اختیاری) ذخیره تنظیمات پس از ری‌استارت
 
 sudo apt install iptables-persistent
+
 sudo netfilter-persistent save
+
 sudo netfilter-persistent reload
