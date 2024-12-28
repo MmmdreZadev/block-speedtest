@@ -1,4 +1,4 @@
-مراحل بلاک کردن وب سایت های speedtest , pornhub..... 
+مراحل بلاک کردن وب سایت های speedtest , pornhub 
 1. نصب Gitاگر بستهٔ git روی سرور نصب نیست، نصبش کنید:
 
 sudo apt update
